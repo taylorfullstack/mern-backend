@@ -24,13 +24,17 @@ Note: The French version of the course was updated more recently.
 
 From the root of your project directory, run the command:
 
-`git clone https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr.git frontend`
+```bash
+git clone https://github.com/OpenClassrooms-Student-Center/go-fullstack-v3-fr.git frontend
+```
 
 Then run:
 
-`cd frontend`
-`npm install`
-`npm run start`
+```bash
+cd frontend
+npm install
+npm run start
+```
 
 ### Backend
 
@@ -40,10 +44,14 @@ However, if you want to test out my implementation:
 
 From the root of your project directory, run the command:
 
-`git clone https://github.com/taylorfullstack/mern-backend backend`
+```bash
+git clone https://github.com/taylorfullstack/mern-backend.git backend
+```
 
 Then run:
 
-`cd backend`
-`npm install`
-`nodemon server`
+```bash
+cd backend
+npm install
+nodemon server
+```
