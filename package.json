@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "mern-backend",
   "version": "1.0.0",
   "description": "Backend of the OpenClassrooms course/project \"Passez au Full Stack avec Node.js, Express, et MongoDB",
   "main": "server.js",
